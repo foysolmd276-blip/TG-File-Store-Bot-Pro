@@ -34,7 +34,7 @@ DB_NAME = "zoro"
 # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 FSUBS = [[-1003016571084, True, 10]]
 # Database Channel (Primary)
-DB_CHANNEL = 
+DB_CHANNEL = 1003817405410
 # Multiple Database Channels (can be set via bot settings)
 # DB_CHANNELS = {
 #     "-1002595092736": {"name": "Primary DB", "is_primary": True, "is_active": True},
